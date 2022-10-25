@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="IPAddressInfoSBB" language="en" table="x_840209_iplookups_ipaddressinfosbb">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>IPAddressInfoSBB</label>
+            <language>en</language>
+            <name>x_840209_iplookups_ipaddressinfosbb</name>
+            <plural>IPAddressInfoSBBs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-25 16:48:33</sys_created_on>
+            <sys_id>bc0b454d873211100b2d986d3fbb358c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IPAddressInfoSBB</sys_name>
+            <sys_package display_value="IPLookupSBB" source="x_840209_iplookups">b1430541873211100b2d986d3fbb351a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookupSBB">b1430541873211100b2d986d3fbb351a</sys_scope>
+            <sys_update_name>sys_documentation_x_840209_iplookups_ipaddressinfosbb__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-25 16:48:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
